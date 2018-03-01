@@ -1,5 +1,4 @@
-# Machine-Learning
-My coursework at Columbia University
+# Machine Learning - My coursework at Columbia University
 
 HW1 Bayesian Classifier, KNN and Decision Tree
 
