@@ -4,4 +4,4 @@
 
 2.HW2 Perceptron - Dataset is available here: http://www.cs.columbia.edu/~verma/classes/sp18/coms4771/index.html
 
-3.NLP Project - Skip Gram Model and Sentiment Analysis
+3.Stanford NLP Project - Word2vec: Skip Gram Model and Sentiment Analysis
